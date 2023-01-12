@@ -25,3 +25,6 @@ we believe if a tool can benefit the public, it should be free and open to anyon
 
 ## Notice
 PikoStudios is not a registered company, simply an alias. All projects are maintained by a single developer.
+
+## Maintainers
+[Frankie A.](https://github.com/okistuff)

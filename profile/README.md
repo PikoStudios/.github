@@ -22,3 +22,6 @@ we believe if a tool can benefit the public, it should be free and open to anyon
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
+
+## Notice
+PikoStudios is not a registered company, simply an alias. All projects are maintained by a single developer.

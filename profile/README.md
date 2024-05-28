@@ -1,6 +1,6 @@
 ![pks](https://cdn.discordapp.com/icons/784899614410670090/f6b22c3298989a2f2530ba1095e3cebb.webp?size=96)
 
-[Open Collective](https://opencollective.com/muzzle) | [Discord](https://discord.pikostudios.dev) | [Website](https://www.pikostudios.dev)
+[Open Collective](https://opencollective.com/muzzle) | [Website](https://www.pikostudios.dev)
 
 ### PikoStudios
 ---

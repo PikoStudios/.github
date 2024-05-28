@@ -4,7 +4,6 @@
 
 ### PikoStudios
 ---
-A small team, with a big goal. [Learn more](https://developer.pikostudios.dev/our-goal)
 
 ## About Us
 
